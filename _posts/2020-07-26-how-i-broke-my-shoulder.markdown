@@ -15,7 +15,7 @@ When it does come to mind I’m filled with guilt.
 
 At eighteen I drank myself into oblivion. Before I succumbed to alcohol poisoning I picked a fight with a very violent person and I lost. This is how I think about being a man.
 
-##Setting The Stage
+## Setting The Stage
 
 I had just returned from boarding school. I was depressed. It was about a girl, of course. The highs and lows of my life have always been about a girl.
 
@@ -47,7 +47,7 @@ To this day I don’t have a good explanation for my behavior. I must have been 
 
 Whatever the reason, work was a difficult and painful place. I lived to punch out.
 
-##Meeting The Musician
+## Meeting The Musician
 
 Outside my job I had two friend groups that I’d switch between. One was headed by an affable sports and cannabis enthusiast. We eventually broke off our friendship in a dispute over money.
 
@@ -73,7 +73,7 @@ Most nights I’d be successful. But some nights I wasn’t and there would be a
 
 I hated it all and yet I stayed.
 
-##Feedback Loops Destroy Themselves
+## Feedback Loops Destroy Themselves
 
 That year was a blur. We’d be at shows. We’d drink. The musician would upturn a table, punch-in a car door, get us banned from a bar. He’d wake up regretful. Swearing to God that he’d be a better person. The next weekend it would be the same thing all over again.
 
@@ -106,7 +106,7 @@ I heard his words but I was somewhere else. Buried beneath an ocean. Bubbles of 
 
 I told him I’d keep it.
 
-##An Attempt At Integration
+## An Attempt At Integration
 
 It’s been nearly ten years since the events of this story. I’ve since moved to other countries, gotten married, and am a far happier person than I once was. Still, the experience has really tainted how I view my home country. It has infused it with a feeling of insecurity that arises when I think about returning.
 
