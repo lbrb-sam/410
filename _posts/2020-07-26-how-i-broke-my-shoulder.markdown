@@ -120,7 +120,7 @@ When I sat down to write I never thought that I’d be telling this story. But I
 
 Re-reading this, I’m reminded of a story I once read. It is an excerpt from John Vaillant’s marvelous book The Tiger. I will close with it here:
 
-*“As in all frontier towns, the gender ratio in Vladivostok was hopelessly skewed, so surplus bachelors were forced to find alternative amusements for themselves. One of these resembled a cross between Duck, Duck, Goose and Russian Roulette. Around 1895, an elderly survivor of this game was interviewed by a Russian researcher and travel writer named Dmitri Shreider . . .
+* “As in all frontier towns, the gender ratio in Vladivostok was hopelessly skewed, so surplus bachelors were forced to find alternative amusements for themselves. One of these resembled a cross between Duck, Duck, Goose and Russian Roulette. Around 1895, an elderly survivor of this game was interviewed by a Russian researcher and travel writer named Dmitri Shreider . . .
 
 [Excerpt begins]
 
@@ -160,7 +160,7 @@ I couldn’t believe my ears. “Listen,” I said, “this is not a game. It’
 
 “And were your other pasttimes so . . . amusing?”
 
-“No, they were more what you’d expect.””*
+“No, they were more what you’d expect.”” *
 
 Until next time,
 Sam
