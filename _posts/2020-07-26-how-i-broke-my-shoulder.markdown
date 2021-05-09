@@ -120,47 +120,47 @@ When I sat down to write I never thought that I’d be telling this story. But I
 
 Re-reading this, I’m reminded of a story I once read. It is an excerpt from John Vaillant’s marvelous book The Tiger. I will close with it here:
 
-* “As in all frontier towns, the gender ratio in Vladivostok was hopelessly skewed, so surplus bachelors were forced to find alternative amusements for themselves. One of these resembled a cross between Duck, Duck, Goose and Russian Roulette. Around 1895, an elderly survivor of this game was interviewed by a Russian researcher and travel writer named Dmitri Shreider . . .
-
-[Excerpt begins]
-
-“Some years ago [c. 1870], at the time of those fruitless hopes for unity and cohesion, an institution appeared here, ‘The Lancepupov Club.'”
-
-“What kind of club was it, and what were its goals?”
-
-“Goals? Why to combat the fragmentation and alienation in our society, and to gather its members for conversation and the exchange of ideas. But it wasn’t long before the Lancepupov Club degenerated into something absurd, something that is shameful to remember.”
-
-My companion was quiet for a time, and then, hesitantly, he continued: “For example, how do you suppose you would like to play a game called ‘Tiger Hunting’?”
-
-“Tiger Hunting? I didn’t know such a game existed.”
-
-“I didn’t either, but after I lived here for awhile, I found out about it. I remember the game very well, especially when it rains or snows . . .”
-
-The narrator rolled up the sleeve of his frock-coat and barred his arm. I looked at it and noticed traces of a large wound above the elbow. The wound had obviously been inflicted by a firearm and, for the first time, I noticed that my companion could not move his arm very well.
-
-“Listen,” I said to him, “so far, all this doesn’t explain anything. And what do tigers have to do with it?”
-
-“You don’t understand? Of course,” he muttered in embarrassment, “how can you . . . games like this don’t exist elsewhere. I was the Tiger!” he exclaimed suddenly, and a broad smile lit his sincere face.
-
-“You?!”
-
-“Yes. You seem surprised, but it’s all very simple: first we would appoint someone–let’s say me–to be the ‘Tiger.’ Then we would take all the furniture out of the room, cover the windows with mats, and turn out the lights. The other club members would be the ‘Hunters,’ and they would sit in the middle of the room (facing outward), armed with revolvers. Thus arranged, they would shoot in any direction where they heard the Tiger (that is, me). Obviously, I’d taken my shoes off and emptied my pockets of anything that might jingle. I would be running along the walls in my socks, trying to step as softly as I could–like a tiger. But one time, the role proved too much for me: I stumbled and got a bullet in my arm. I was lucky it wasn’t my heart.”
-
-I couldn’t believe my ears. “Listen,” I said, “this is not a game. It’s murder! To cover the windows, turn out the lights and shoot at a human being? You could have been killed.”
-
-“Not exactly. As you can see, I’m still alive. Anyhow, we saw it differently: it was amusing, in its way. Of course, with the lamps lit, death was a real possibility; but, in the dark, the Tiger could become ‘the Tiger!’ Besides, according to the rules, you could only shoot at the legs.”
-
-“But you were shot in the elbow”
-
-“It was an accident–I fell down”
-
-“How could you agree to participate–forgive me for saying so–in such an insane game?”
-
-“How? Now, of course, I can’t think about it without feeling terrified. But back then, it was nothing. Back then, life was cheap.”
-
-“And were your other pasttimes so . . . amusing?”
-
-“No, they were more what you’d expect.”” *
+>As in all frontier towns, the gender ratio in Vladivostok was hopelessly skewed, so surplus bachelors were forced to find alternative amusements for themselves. One of these resembled a cross between Duck, Duck, Goose and Russian Roulette. Around 1895, an elderly survivor of this game was interviewed by a Russian researcher and travel writer named Dmitri Shreider . . .
+>
+>[Excerpt begins]
+>
+>“Some years ago [c. 1870], at the time of those fruitless hopes for unity and cohesion, an institution appeared here, ‘The Lancepupov Club.'”
+>
+>“What kind of club was it, and what were its goals?”
+>
+>“Goals? Why to combat the fragmentation and alienation in our society, and to gather its members for conversation and the exchange of ideas. But it wasn’t long before the Lancepupov Club degenerated into something absurd, something that is shameful to remember.”
+>
+>My companion was quiet for a time, and then, hesitantly, he continued: “For example, how do you suppose you would like to play a game called ‘Tiger Hunting’?”
+>
+>“Tiger Hunting? I didn’t know such a game existed.”
+>
+>“I didn’t either, but after I lived here for awhile, I found out about it. I remember the game very well, especially when it rains or snows . . .”
+>
+>The narrator rolled up the sleeve of his frock-coat and barred his arm. I looked at it and noticed traces of a large wound above the elbow. The wound had obviously been inflicted by a firearm and, for the first time, I noticed that my companion could not move his arm very well.
+>
+>“Listen,” I said to him, “so far, all this doesn’t explain anything. And what do tigers have to do with it?”
+>
+>“You don’t understand? Of course,” he muttered in embarrassment, “how can you . . . games like this don’t exist elsewhere. I was the Tiger!” he exclaimed suddenly, and a broad smile lit his sincere face.
+>
+>“You?!”
+>
+>“Yes. You seem surprised, but it’s all very simple: first we would appoint someone–let’s say me–to be the ‘Tiger.’ Then we would take all the furniture out of the room, cover the windows with mats, and turn out the lights. The other club members would be the ‘Hunters,’ and they would sit in the middle of the room (facing outward), armed with revolvers. Thus arranged, they would shoot in any direction where they heard the Tiger (that is, me). Obviously, I’d taken my shoes off and emptied my pockets of anything that might jingle. I would be running along the walls in my socks, trying to step as softly as I could–like a tiger. But one time, the role proved too much for me: I stumbled and got a bullet in my arm. I was lucky it wasn’t my heart.”
+>
+>I couldn’t believe my ears. “Listen,” I said, “this is not a game. It’s murder! To cover the windows, turn out the lights and shoot at a human being? You could have been killed.”
+>
+>“Not exactly. As you can see, I’m still alive. Anyhow, we saw it differently: it was amusing, in its way. Of course, with the lamps lit, death was a real possibility; but, in the dark, the Tiger could become ‘the Tiger!’ Besides, according to the rules, you could only shoot at the legs.”
+>
+>“But you were shot in the elbow”
+>
+>“It was an accident–I fell down”
+>
+>“How could you agree to participate–forgive me for saying so–in such an insane game?”
+>
+>“How? Now, of course, I can’t think about it without feeling terrified. But back then, it was nothing. Back then, life was cheap.”
+>
+>“And were your other pasttimes so . . . amusing?”
+>
+>“No, they were more what you’d expect.”
 
 Until next time,
 Sam
